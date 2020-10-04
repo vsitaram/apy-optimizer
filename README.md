@@ -1,3 +1,11 @@
+
+# APY Optimizer
+
+Given a set of savings accounts and total funds, optimize allocation between your different accounts.
+
+This was mainly just a way for me to learn more about React :)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
